@@ -19,6 +19,7 @@
 
 - `git remote add upstream https://github.com/ingg-git/git-test`
   - 원 저장소를 'upstream'이라는 이름의 리모트로 추가
+- `git checkout master`
 - `git fetch upstream`
   - 리모트에서 최신 데이터를 Fetch
 - `git merge upstream/master`
